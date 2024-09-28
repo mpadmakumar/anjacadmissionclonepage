@@ -175,8 +175,8 @@ font-size: 16px;
 
                 position: absolute;
                 margin-left: 10px;
-                width: 450px;
-                height: 550px;
+                width: 430px;
+                height: 600px;
                 left: 0px;
                  border-radius: 10px;
                 top: 10px;
@@ -184,7 +184,7 @@ font-size: 16px;
                 border: 1px solid black;
         }
         .loginpage2{
-            height: 720px;
+            height: 730px;
         }
         .loginbtn,.h1,.h2,.h5,.formcontent,.logo{
 
@@ -198,6 +198,7 @@ font-size: 16px;
         }
         .loginbtn{
             width:410px ;
+            margin-left: 0px;
         }
         .mnumber{
             width:400px ;
