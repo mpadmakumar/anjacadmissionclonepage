@@ -174,7 +174,7 @@ font-size: 16px;
         .loginpage,.loginpage2{
 
                 position: absolute;
-                margin-left: 20px;
+                margin-left: 10px;
                 width: 450px;
                 height: 550px;
                 left: 0px;
@@ -184,7 +184,7 @@ font-size: 16px;
                 border: 1px solid black;
         }
         .loginpage2{
-            height: 700px;
+            height: 720px;
         }
         .loginbtn,.h1,.h2,.h5,.formcontent,.logo{
 
